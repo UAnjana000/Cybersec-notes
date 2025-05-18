@@ -1,0 +1,29 @@
+SOC with threat interlligence
+DFIR with malware analysis
+Types of Malware:
+Virus- Attaches to the program
+
+Ransomware- Gotta pay money inorder to get this removed
+
+Trojan horse- 3. Trojan Horse (Trojan)
+Definition: Disguises itself as legitimate software to trick users into installing it.
+It has a piece of desired function and the malware function hides underneath it
+Effect: Can create backdoors, steal data, or install other malware.
+
+
+
+Worm
+Definition: Self-replicates and spreads independently through networks.
+
+Effect: Can overload systems and networks, causing denial of service (DoS).
+
+Spyware
+Definition: Secretly gathers user data (keystrokes, browsing history, passwords).
+
+Effect: Identity theft, credential leaks, and privacy invasion.
+
+Adware
+Definition: Automatically displays or downloads ads, often in a disruptive way.
+
+Effect: Slows down systems, may be bundled with spyware.
+

@@ -1,0 +1,14 @@
+SIEM- Security information and Event Management
+DFIR- Defense Forensics and Incident Response
+SOC- Security Operations center
+MTTD – Mean Time to Detect
+
+The average time it takes to detect an issue, incident, or failure after it has occurred.
+
+MTTA – Mean Time to Acknowledge
+
+The average time it takes for a responsible team or system to acknowledge that an issue or alert has been detected.
+
+MTTR – Mean Time to Resolve (or Repair)
+
+The average time it takes to fully resolve or repair an issue after it has been acknowledged.
